@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Maheen Touseef
+### Full-Stack Developer | Founder of CodeAvail
 
-<!--
-**Lighter-beep/Lighter-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build high-performance web tools and curated code libraries designed to help developers scale their projects faster.
 
-Here are some ideas to get you started:
+- 🚀 Currently building **[CodeAvail](https://lighter-beep.github.io/codeavail/)**
+- 🛠️ Tech Stack: HTML5, CSS3, JavaScript (ES6+), Python
+- 📈 Focus: Web Performance, SEO, and UI/UX Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,git,github,vscode" />
+</p>
